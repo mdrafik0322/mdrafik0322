@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+I am a passionate developer currently mastering the art of building end-to-end web applications. My focus is on creating scalable backend systems and intuitive user interfaces using the modern Java ecosystem.<br><br>🛠️ Technical Power Stack<br>Backend Mastery: Developing robust server-side logic using Java 17/21 and the Spring Boot 3.x framework.<br><br>Frontend Flair: Crafting responsive, dynamic UIs with React.js, HTML5, and Tailwind CSS.<br><br>Database Management: Designing efficient data schemas with MySQL and PostgreSQL, utilizing Hibernate/JPA for seamless data mapping.<br><br>API Excellence: Building and documenting RESTful APIs that follow industry-standard security protocols.<br><br>Modern Tooling: Proficient with Git/GitHub for version control, Maven for build automation, and exploring Docker for containerization.<br><br>💡 Why Me?<br>Clean Code Enthusiast: I believe in writing code that is not just functional, but readable and maintainable.<br><br>Problem Solver: I enjoy breaking down complex business requirements into small, manageable technical tasks.<br><br>Continuous Learner: Currently diving deep into Microservices architecture and Cloud Deployment (AWS) to stay ahead of the curve.
 
-<!--
-**mdrafik0322/mdrafik0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdrafik0322&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mdrafik0322&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrafik0322&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=mdrafik0322&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
